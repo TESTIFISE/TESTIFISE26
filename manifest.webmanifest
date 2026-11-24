@@ -1,0 +1,16 @@
+{
+  "name": "TestIFISE · Curso Selectivo Policía Local CM",
+  "short_name": "TestIFISE",
+  "description": "Tests por asignaturas del Curso Selectivo de Formación Básica (IFISE) para Policías Locales de la Comunidad de Madrid.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f5f9",
+  "theme_color": "#1d4f91",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
